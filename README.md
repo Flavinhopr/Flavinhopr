@@ -5,6 +5,7 @@
  My First contact with programming language was in a techical course of Industrial Automation, learning C/C++ and Java. Since then, i never stopped learning and developing softwares. I'm currently learning web programming languages, such as: HTML, CSS and JavaScript.
  
 </p>
+
 <h2>🖥 Skills</h2>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
@@ -17,6 +18,7 @@
 <a href = "mailto:flavioporfirio86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/flavio-porfírio-1b8204168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <h2> Github Stats</h2>
  <div>
   <a href="https://github.com/flavioporfirio">
@@ -30,5 +32,7 @@
 </div>
 
 <div>
+ 
   ![Snake animation](https://github.com/flavioporfirio/flavioporfirio/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
