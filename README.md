@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 <p> 
- My First contact with programming language was in a techical course of Industrial Automation, learning C/C++ and Java. Since then, i never stopped learning and developing softwares. I'm currently learning web programming languages, such as: HTML, CSS and JavaScript.
+ My First contact with programming language was in a technical course of Industrial Automation, learning C/C++ and Java. Since then, i never stopped learning and developing softwares. I'm currently learning web programming languages, such as: HTML, CSS and JavaScript.
  
 </p>
 
